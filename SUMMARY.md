@@ -190,7 +190,6 @@
   * [eip-1482](eips/eip-1482.md)
   * [eip-1240](eips/eip-1240.md)
   * [eip-1592](eips/eip-1592.md)
-* [PULL\_REQUEST\_TEMPLATE](pull_request_template.md)
 * [eip-X](eip-x.md)
 * [assets](assets/README.md)
   * [eip-1057](assets/eip-1057/README.md)
